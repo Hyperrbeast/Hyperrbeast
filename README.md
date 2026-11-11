@@ -1,33 +1,7 @@
 <p align="center">
-  <img src="assets/terminal-banner.svg" alt="Hyperrbeast — Aadesh Srivastava. A neon-green developer terminal." width="100%" />
+  <img src="assets/terminal-banner.svg" alt="Hyperrbeast — Aadesh Srivastava. Curiosity first. Code follows." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Aadesh Srivastava</strong><br />
-  A developer's corner of the internet. Built with curiosity.
+  <img src="assets/developer-console.svg" alt="Developer console: Aadesh Srivastava, @Hyperrbeast, India. Curiosity first. Code follows. Make something useful. Keep making it better. Less noise. More building." width="100%" />
 </p>
-
----
-
-### `01 / whoami`
-
-```text
-name       Aadesh Srivastava
-handle     Hyperrbeast
-location   India
-space      Code, ideas, and things worth building.
-```
-
-### `02 / the mindset`
-
-Curiosity first. Make something useful. Keep making it better.
-
-This is my space to share what I build and what I learn along the way.
-
-### `03 / find me`
-
-[**@Hyperrbeast →**](https://github.com/Hyperrbeast)
-
----
-
-<p align="center"><samp>LESS NOISE. MORE BUILDING.</samp></p>
