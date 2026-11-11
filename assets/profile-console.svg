@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Hyperrbeast — Aadesh Srivastava</title>
+<desc id="desc">Personal developer console. Aadesh Srivastava, Hyperrbeast, India. Curiosity first. Code follows. Make something useful. Keep making it better.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#15291e"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="648" rx="20" fill="#080e0b" stroke="#284337" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="646" rx="19" fill="url(#grid)"/>
+<path d="M1 58H1199" stroke="#284337"/>
+<circle cx="30" cy="29" r="6" fill="#8da197"/><circle cx="52" cy="29" r="6" fill="#8da197"/><circle cx="74" cy="29" r="6" fill="#a3ff6b"/>
+<g font-family="Consolas, monospace">
+<text x="106" y="35" fill="#9bae9f" font-size="15">hyperrbeast / personal-console</text>
+<text x="1144" y="35" fill="#a3ff6b" font-size="15" text-anchor="end">~/</text>
+<text x="56" y="118" fill="#a3ff6b" font-size="18">$ ./introduce</text>
+<text x="51" y="211" fill="#a3ff6b" font-size="82" font-weight="700" letter-spacing="-3">HYPERRBEAST</text>
+<text x="56" y="260" fill="#edf6ed" font-size="23" letter-spacing="4">AADESH SRIVASTAVA</text>
+<text x="56" y="311" fill="#9bae9f" font-size="19">Curiosity first. Code follows.</text>
+<path d="M56 354H1144" stroke="#284337"/>
+<text x="56" y="397" fill="#a3ff6b" font-size="18">$ cat identity.conf</text>
+<text x="56" y="443" fill="#809b88" font-size="19">handle</text><text x="242" y="443" fill="#edf6ed" font-size="21">@Hyperrbeast</text>
+<text x="56" y="485" fill="#809b88" font-size="19">location</text><text x="242" y="485" fill="#edf6ed" font-size="21">India / Earth</text>
+<text x="56" y="527" fill="#809b88" font-size="19">mindset</text><text x="242" y="527" fill="#edf6ed" font-size="21">Make something useful. Keep making it better.</text>
+<path d="M56 563H1144" stroke="#284337"/>
+<text x="56" y="610" fill="#a3ff6b" font-size="17">&gt; less noise. more building.</text>
+<rect x="374" y="594" width="11" height="20" fill="#a3ff6b"><animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="1144" y="610" text-anchor="end" fill="#809b88" font-size="14">IDEA → EXPERIMENT → ITERATE</text>
+</g>
+<g fill="none" stroke="#a3ff6b">
+<path d="M971 100L1086 166V298L971 364L856 298V166Z" stroke-opacity=".18" stroke-width="2"/>
+<path d="M971 128L1062 180V284L971 336L880 284V180Z" fill="#0c1911" stroke-opacity=".45" stroke-width="2"/>
+<path d="M938 195L906 232L938 269M1004 195L1036 232L1004 269M987 185L955 279" stroke-width="7"/>
+</g></svg>
