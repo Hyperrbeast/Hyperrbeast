@@ -7,12 +7,6 @@
   A developer's corner of the internet. Built with curiosity.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Hyperrbeast?tab=repositories">Explore my repositories</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Hyperrbeast?tab=stars">Explore my stars</a>
-</p>
-
 ---
 
 ### `01 / whoami`
