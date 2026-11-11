@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+<title id="title">Hyperrbeast personal developer console</title>
+<desc id="desc">Aadesh Srivastava, Hyperrbeast, India. Curiosity first. Code follows. Less noise. More building.</desc>
+<defs>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#16291f" stroke-width="1"/></pattern>
+ <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#10251a"/><stop offset="1" stop-color="#0a120e"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="588" rx="20" fill="#080e0b" stroke="#284337" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="586" rx="19" fill="url(#grid)"/>
+<g font-family="Consolas, monospace">
+ <text x="44" y="48" fill="#a3ff6b" font-size="16" letter-spacing="2">H / B</text>
+ <text x="1156" y="48" fill="#9bae9f" font-size="14" text-anchor="end">PERSONAL CONSOLE / 01</text>
+ <path d="M44 69H1156" stroke="#284337"/>
+ <text x="44" y="111" fill="#a3ff6b" font-size="17">$ cat identity.conf</text>
+ <rect x="44" y="137" width="668" height="225" rx="12" fill="#0c1711" stroke="#284337"/>
+ <path d="M44 149V350" stroke="#a3ff6b" stroke-width="3"/>
+ <text x="72" y="179" fill="#809b88" font-size="14" letter-spacing="2">THE HUMAN BEHIND THE HANDLE</text>
+ <text x="72" y="224" fill="#edf6ed" font-size="30" font-weight="700">Aadesh Srivastava</text>
+ <text x="72" y="273" fill="#809b88" font-size="18">handle</text>
+ <text x="226" y="273" fill="#a3ff6b" font-size="21">@Hyperrbeast</text>
+ <text x="72" y="319" fill="#809b88" font-size="18">location</text>
+ <text x="226" y="319" fill="#edf6ed" font-size="21">India / Earth</text>
+ <rect x="736" y="137" width="420" height="225" rx="12" fill="url(#panel)" stroke="#284337"/>
+ <text x="764" y="179" fill="#809b88" font-size="14" letter-spacing="2">OPERATING PHILOSOPHY</text>
+ <text x="764" y="231" fill="#a3ff6b" font-size="31" font-weight="700">Curiosity first.</text>
+ <text x="764" y="274" fill="#edf6ed" font-size="31" font-weight="700">Code follows.</text>
+ <path d="M764 308H1128" stroke="#284337"/>
+ <text x="764" y="337" fill="#9bae9f" font-size="14">IDEA → EXPERIMENT → ITERATE</text>
+ <text x="44" y="409" fill="#a3ff6b" font-size="17">$ echo $MINDSET</text>
+ <text x="44" y="451" fill="#edf6ed" font-size="23">Make something useful. Keep making it better.</text>
+ <path d="M44 486H1156" stroke="#284337"/>
+ <text x="44" y="536" fill="#809b88" font-size="14" letter-spacing="2">LESS NOISE. MORE BUILDING.</text>
+ <text x="1156" y="536" fill="#a3ff6b" font-size="15" text-anchor="end">NEXT IDEA_</text>
+ <rect x="44" y="560" width="1112" height="2" fill="#193723"/>
+ <rect x="44" y="560" width="92" height="2" fill="#a3ff6b">
+  <animate attributeName="x" values="44;1064;44" dur="14s" repeatCount="indefinite"/>
+ </rect>
+</g>
+</svg>
